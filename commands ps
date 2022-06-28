@@ -1,0 +1,17 @@
+POWERSHELL AV:
+
+Get-MpComputerStatus
+Start-MpScan -ScanType QuickScan
+Start-MpScan -ScanType FullScan
+Start-MpScan -ScanType CustomScan -ScanPath "C:\Users\user\Downloads"
+
+
+POWERSHELL PROCESS MONITORIZATION
+
+Get-Process
+
+---
+
+Process hacker portable 
+
+https://portableapps.com/apps/utilities/process-hacker-portable
