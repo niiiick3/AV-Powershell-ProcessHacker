@@ -15,3 +15,9 @@ Get-Process
 Process hacker portable 
 
 https://portableapps.com/apps/utilities/process-hacker-portable
+
+
+-----------------------
+desde C:\windows\system32
+
+DSIM /Online /Cleanup-Image /CheckHealth
